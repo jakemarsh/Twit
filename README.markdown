@@ -1,1 +1,1 @@
-This is my answer to the official Twit app's behavior of not playing videos properly when plugged into an accessory. (Like the one I have in my car.)
+This is my answer to the official Twit app's behavior of not playing videos properly when plugged into an accessory. (Like the one I have in my car).
