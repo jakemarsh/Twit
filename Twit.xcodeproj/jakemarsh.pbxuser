@@ -97,29 +97,28 @@
 			PBXWorkspaceStateSaveDate = 319844067;
 		};
 		perUserProjectItems = {
-			306784A71258276C00E84113 = 306784A71258276C00E84113 /* PBXTextBookmark */;
-			306784A81258276C00E84113 = 306784A81258276C00E84113 /* PBXTextBookmark */;
-			306784DD1258293000E84113 = 306784DD1258293000E84113 /* XDModelBookmark */;
-			306784E61258294500E84113 = 306784E61258294500E84113 /* PBXTextBookmark */;
-			3068CD9812CE82A600F633BA = 3068CD9812CE82A600F633BA /* PBXTextBookmark */;
-			3068CE4612CE8E1900F633BA = 3068CE4612CE8E1900F633BA /* PBXTextBookmark */;
-			3068CE4712CE8E1900F633BA = 3068CE4712CE8E1900F633BA /* PBXTextBookmark */;
-			3068CE4812CE8E1900F633BA = 3068CE4812CE8E1900F633BA /* PBXTextBookmark */;
-			3068CE4912CE8E1900F633BA = 3068CE4912CE8E1900F633BA /* PBXTextBookmark */;
-			3068CE4B12CE8E1900F633BA = 3068CE4B12CE8E1900F633BA /* PBXTextBookmark */;
-			3068CE6412CE8E7500F633BA = 3068CE6412CE8E7500F633BA /* PBXTextBookmark */;
-			3068CE6512CE8E7500F633BA = 3068CE6512CE8E7500F633BA /* PBXTextBookmark */;
-			3068CE6612CE8E7500F633BA = 3068CE6612CE8E7500F633BA /* PBXTextBookmark */;
-			3068CE6712CE8E7500F633BA = 3068CE6712CE8E7500F633BA /* PBXTextBookmark */;
-			3068CE7312CE8F9200F633BA = 3068CE7312CE8F9200F633BA /* PBXTextBookmark */;
-			3068CEA012CE921B00F633BA = 3068CEA012CE921B00F633BA /* PBXTextBookmark */;
-			3068CEA112CE921B00F633BA = 3068CEA112CE921B00F633BA /* PlistBookmark */;
-			3068CEA212CE921B00F633BA = 3068CEA212CE921B00F633BA /* PBXTextBookmark */;
-			3068CEA312CE921B00F633BA = 3068CEA312CE921B00F633BA /* PBXTextBookmark */;
-			3068CF1412CFB8C800F633BA = 3068CF1412CFB8C800F633BA /* PBXTextBookmark */;
-			30B147B013106EEB001B74DD /* PBXTextBookmark */ = 30B147B013106EEB001B74DD /* PBXTextBookmark */;
-			30B5DBEE12582191004DBCCB = 30B5DBEE12582191004DBCCB /* PBXTextBookmark */;
-			30B5DC3A125822B2004DBCCB = 30B5DC3A125822B2004DBCCB /* PBXTextBookmark */;
+			306784A71258276C00E84113 /* PBXTextBookmark */ = 306784A71258276C00E84113 /* PBXTextBookmark */;
+			306784A81258276C00E84113 /* PBXTextBookmark */ = 306784A81258276C00E84113 /* PBXTextBookmark */;
+			306784DD1258293000E84113 /* XDModelBookmark */ = 306784DD1258293000E84113 /* XDModelBookmark */;
+			306784E61258294500E84113 /* PBXTextBookmark */ = 306784E61258294500E84113 /* PBXTextBookmark */;
+			3068CD9812CE82A600F633BA /* PBXTextBookmark */ = 3068CD9812CE82A600F633BA /* PBXTextBookmark */;
+			3068CE4612CE8E1900F633BA /* PBXTextBookmark */ = 3068CE4612CE8E1900F633BA /* PBXTextBookmark */;
+			3068CE4712CE8E1900F633BA /* PBXTextBookmark */ = 3068CE4712CE8E1900F633BA /* PBXTextBookmark */;
+			3068CE4812CE8E1900F633BA /* PBXTextBookmark */ = 3068CE4812CE8E1900F633BA /* PBXTextBookmark */;
+			3068CE4912CE8E1900F633BA /* PBXTextBookmark */ = 3068CE4912CE8E1900F633BA /* PBXTextBookmark */;
+			3068CE4B12CE8E1900F633BA /* PBXTextBookmark */ = 3068CE4B12CE8E1900F633BA /* PBXTextBookmark */;
+			3068CE6412CE8E7500F633BA /* PBXTextBookmark */ = 3068CE6412CE8E7500F633BA /* PBXTextBookmark */;
+			3068CE6512CE8E7500F633BA /* PBXTextBookmark */ = 3068CE6512CE8E7500F633BA /* PBXTextBookmark */;
+			3068CE6612CE8E7500F633BA /* PBXTextBookmark */ = 3068CE6612CE8E7500F633BA /* PBXTextBookmark */;
+			3068CE6712CE8E7500F633BA /* PBXTextBookmark */ = 3068CE6712CE8E7500F633BA /* PBXTextBookmark */;
+			3068CE7312CE8F9200F633BA /* PBXTextBookmark */ = 3068CE7312CE8F9200F633BA /* PBXTextBookmark */;
+			3068CEA012CE921B00F633BA /* PBXTextBookmark */ = 3068CEA012CE921B00F633BA /* PBXTextBookmark */;
+			3068CEA112CE921B00F633BA /* PlistBookmark */ = 3068CEA112CE921B00F633BA /* PlistBookmark */;
+			3068CEA212CE921B00F633BA /* PBXTextBookmark */ = 3068CEA212CE921B00F633BA /* PBXTextBookmark */;
+			3068CF1412CFB8C800F633BA /* PBXTextBookmark */ = 3068CF1412CFB8C800F633BA /* PBXTextBookmark */;
+			30B147CA1310744C001B74DD /* PBXTextBookmark */ = 30B147CA1310744C001B74DD /* PBXTextBookmark */;
+			30B5DBEE12582191004DBCCB /* PBXTextBookmark */ = 30B5DBEE12582191004DBCCB /* PBXTextBookmark */;
+			30B5DC3A125822B2004DBCCB /* PBXTextBookmark */ = 30B5DC3A125822B2004DBCCB /* PBXTextBookmark */;
 		};
 		sourceControlManager = 30B5DBEA125820C2004DBCCB /* Source Control */;
 		userBuildSettings = {
@@ -141,10 +140,10 @@
 	};
 	3067842F125825E900E84113 /* RSSViewController.m */ = {
 		uiCtxt = {
-			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1330, 507}\";\n            s = 0;\n        },\n                {\n            r = \"{1898, 303}\";\n            s = 0;\n        },\n                {\n            r = \"{2226, 767}\";\n            s = 0;\n        },\n                {\n            r = \"{3019, 427}\";\n            s = 0;\n        },\n                {\n            r = \"{3501, 107}\";\n            s = 0;\n        },\n                {\n            r = \"{3690, 50}\";\n            s = 0;\n        },\n                {\n            r = \"{3795, 368}\";\n            s = 0;\n        },\n                {\n            r = \"{4261, 542}\";\n            s = 0;\n        },\n                {\n            r = \"{4837, 174}\";\n            s = 0;\n        },\n                {\n            r = \"{5078, 1799}\";\n            s = 0;\n        },\n                {\n            r = \"{6905, 417}\";\n            s = 0;\n        },\n                {\n            r = \"{7384, 348}\";\n            s = 0;\n        },\n                {\n            r = \"{7773, 490}\";\n            s = 0;\n        },\n                {\n            r = \"{8362, 77}\";\n            s = 0;\n        },\n                {\n            r = \"{8554, 62}\";\n            s = 0;\n        },\n                {\n            r = \"{8709, 161}\";\n            s = 0;\n        },\n                {\n            r = \"{8958, 340}\";\n            s = 0;\n        },\n                {\n            r = \"{9405, 401}\";\n            s = 0;\n        },\n                {\n            r = \"{9945, 729}\";\n            s = 0;\n        },\n                {\n            r = \"{10775, 1643}\";\n            s = 0;\n        },\n                {\n            r = \"{12492, 197}\";\n            s = 0;\n        },\n                {\n            r = \"{12766, 177}\";\n            s = 0;\n        },\n                {\n            r = \"{12969, 133}\";\n            s = 0;\n        },\n                {\n            r = \"{13123, 101}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 13231}\";\n    s = 0;\n}";
-			sepNavIntBoundsRect = "{{0, 0}, {1052, 1615}}";
-			sepNavSelRange = "{466, 7}";
-			sepNavVisRange = "{3, 1366}";
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1224, 507}\";\n            s = 0;\n        },\n                {\n            r = \"{1792, 303}\";\n            s = 0;\n        },\n                {\n            r = \"{2120, 767}\";\n            s = 0;\n        },\n                {\n            r = \"{2913, 427}\";\n            s = 0;\n        },\n                {\n            r = \"{3395, 107}\";\n            s = 0;\n        },\n                {\n            r = \"{3584, 50}\";\n            s = 0;\n        },\n                {\n            r = \"{3689, 368}\";\n            s = 0;\n        },\n                {\n            r = \"{4155, 542}\";\n            s = 0;\n        },\n                {\n            r = \"{4731, 174}\";\n            s = 0;\n        },\n                {\n            r = \"{4972, 1799}\";\n            s = 0;\n        },\n                {\n            r = \"{6799, 417}\";\n            s = 0;\n        },\n                {\n            r = \"{7278, 348}\";\n            s = 0;\n        },\n                {\n            r = \"{7667, 490}\";\n            s = 0;\n        },\n                {\n            r = \"{8256, 77}\";\n            s = 0;\n        },\n                {\n            r = \"{8448, 62}\";\n            s = 0;\n        },\n                {\n            r = \"{8603, 161}\";\n            s = 0;\n        },\n                {\n            r = \"{8852, 340}\";\n            s = 0;\n        },\n                {\n            r = \"{9299, 401}\";\n            s = 0;\n        },\n                {\n            r = \"{9839, 729}\";\n            s = 0;\n        },\n                {\n            r = \"{10669, 1643}\";\n            s = 0;\n        },\n                {\n            r = \"{12386, 197}\";\n            s = 0;\n        },\n                {\n            r = \"{12660, 177}\";\n            s = 0;\n        },\n                {\n            r = \"{12863, 133}\";\n            s = 0;\n        },\n                {\n            r = \"{13017, 101}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 13125}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1052, 1513}}";
+			sepNavSelRange = "{413, 0}";
+			sepNavVisRange = "{0, 1289}";
 		};
 	};
 	306784441258261B00E84113 /* MWFeedItem.h */ = {
@@ -575,16 +574,6 @@
 		vrLen = 1099;
 		vrLoc = 0;
 	};
-	3068CEA312CE921B00F633BA /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 3067842F125825E900E84113 /* RSSViewController.m */;
-		name = "RSSViewController.m: 7";
-		rLen = 0;
-		rLoc = 141;
-		rType = 0;
-		vrLen = 1839;
-		vrLoc = 0;
-	};
 	3068CF1412CFB8C800F633BA /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 3067842F125825E900E84113 /* RSSViewController.m */;
@@ -595,15 +584,15 @@
 		vrLen = 4745;
 		vrLoc = 8486;
 	};
-	30B147B013106EEB001B74DD /* PBXTextBookmark */ = {
+	30B147CA1310744C001B74DD /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 3067842F125825E900E84113 /* RSSViewController.m */;
-		name = "RSSViewController.m: 263";
+		name = "RSSViewController.m: 18";
 		rLen = 0;
-		rLoc = 9078;
+		rLoc = 413;
 		rType = 0;
-		vrLen = 4205;
-		vrLoc = 8486;
+		vrLen = 2097;
+		vrLoc = 0;
 	};
 	30B5DBD1125820AF004DBCCB /* Twit */ = {
 		isa = PBXExecutable;
